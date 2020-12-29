@@ -3,12 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuentesfrancisco&label=Profile%20views&color=0e75b6&style=flat" alt="fuentesfrancisco" /> </p>
 
-
-- 🌱 I’m currently learning **React Native, GraphQL**
-
-- 👯 I worked on [Bomba e-commerce](https://bomba-ecommerce.web.app/)
-
-- 💬 Ask me about **React js, Express js, Node js, Redux js, PostgreSQL, Sequelize**
+- 💬 Ask me about **React js, Express js, Node js, Redux js, PostgreSQL, Sequelize, Mongoose, MongoDB, React Native, GraphQL**
 
 - 📫 How to reach me **francisco.fuentes.fullstack@gmail.com**
 
